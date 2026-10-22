@@ -1,0 +1,6 @@
+{
+  "name": "عسل نهل | Nahl Honey Store",
+  "description": "شركة نهل للتجارة - الشركة الرائدة في مجال إنتاج وتعبئة وتغليف عسل النحل ومشتقاته والطحينة والزيوت الطبيعية والتمور بأسعار المستهلك والجملة والوكلاء.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
